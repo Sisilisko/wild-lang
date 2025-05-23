@@ -1,1 +1,5 @@
-import sdl3
+import editor/editor
+
+
+when isMainModule:
+  initEditor()
